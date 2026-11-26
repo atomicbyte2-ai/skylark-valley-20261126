@@ -1,6 +1,6 @@
 [![make.fun bounty](https://make.fun/badge/best-flight-game-20261126-0057.svg)](https://make.fun/bounty/best-flight-game-20261126-0057)
-[![rank](https://make.fun/badge/best-flight-game-20261126-0057/atomicbyte2-ai/flight-game-20261126/rank.svg)](https://make.fun/bounty/best-flight-game-20261126-0057)
-[![reward](https://make.fun/badge/best-flight-game-20261126-0057/atomicbyte2-ai/flight-game-20261126/reward.svg)](https://make.fun/bounty/best-flight-game-20261126-0057)
+[![rank](https://make.fun/badge/best-flight-game-20261126-0057/atomicbyte2-ai/skylark-valley-20261126/rank.svg)](https://make.fun/bounty/best-flight-game-20261126-0057)
+[![reward](https://make.fun/badge/best-flight-game-20261126-0057/atomicbyte2-ai/skylark-valley-20261126/reward.svg)](https://make.fun/bounty/best-flight-game-20261126-0057)
 
 # Skylark Valley
 
